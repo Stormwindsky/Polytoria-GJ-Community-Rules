@@ -5,7 +5,7 @@ Welcome to the official **Polytoria** community on Gamejolt! To keep this space 
 ---
 
 ## 1. Follow Gamejolt’s Terms of Service
-First and foremost, all members must adhere to [Gamejolt’s Site Guidelines](https://gamejolt.com/guidelines). Harassment, hate speech, NSFW content, and illegal activities are strictly prohibited.
+First and foremost, all members must adhere to [Gamejolt’s Site Guidelines](https://gamejolt.com/help-docs/general/guidelines). Harassment, hate speech, NSFW content, and illegal activities are strictly prohibited.
 
 ## 2. Keep it Polytoria-Related
 This community is dedicated to **Polytoria**. All posts, fan art, and discussions should focus on Polytoria’s gameplay, economy, avatars, or development.
